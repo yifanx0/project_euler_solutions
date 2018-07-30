@@ -1,7 +1,7 @@
 # Project Euler Solutions
 
 This is a repo where I store my Python solutions to problems on 
-<projecteuler.net>.
+[projecteuler.net].
 
 The answers I uploaded all yielded the right solutions, but there
 is no guarantee that they are the most succinct or the smartest 
