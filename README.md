@@ -3,11 +3,11 @@
 This is a repo where I store my Python solutions to problems on 
 <https://projecteuler.net>.
 
-The answers I uploaded all yielded the right solutions, but there
-is no guarantee that they are the most succinct or the smartest 
-(in fact, I am sure almost all, if not actually all, of them are
-not, but they worked :P ). Nevertheless, I hope that they are 
-readable and easy enough to help those who are a bit confused about 
-how to approach some of the problems. At the same time, I am happy 
-to discuss the problems and solutions with others and learn from 
-the amazing Project Euler community.
+I recently noticed that the Project Euler website says 
+users are not supposed to share answers on public repos. But since 
+I am using this repo mostly for keeping track of my own progress, I 
+would like to keep it this way. 
+
+It would be great if you only check out my solutions after you have 
+solved the problem yourself. Do not give up the challenge and more 
+importantly the FUN :P
